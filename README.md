@@ -84,9 +84,9 @@ flipkart-sentiment-app/
    ```bash
    streamlit run app.py
    ```
+```
 
 ---
-
 ## 📚 Dataset Overview
 
 * **Columns**:
@@ -127,6 +127,6 @@ flipkart-sentiment-app/
 
 This project is licensed under the MIT License - feel free to use, improve, and share!
 
-```
+
 
 ---
