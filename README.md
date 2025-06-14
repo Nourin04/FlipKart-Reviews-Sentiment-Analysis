@@ -65,28 +65,34 @@ flipkart-sentiment-app/
 
 ---
 
+Here is your updated content converted to **proper Markdown syntax**, ready to be used in a `README.md` file:
+
+---
+
+````markdown
 ## 📦 Installation & Run Locally
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/flipkart-sentiment-app.git
-   cd flipkart-sentiment-app
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/flipkart-sentiment-app.git
+cd flipkart-sentiment-app
 ````
 
-2. **Install dependencies:**
+### 2. Install dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 
-3. **Run the app:**
+### 3. Run the app:
 
-   ```bash
-   streamlit run app.py
-   ```
+```bash
+streamlit run app.py
 ```
 
 ---
+
 ## 📚 Dataset Overview
 
 * **Columns**:
@@ -100,7 +106,7 @@ flipkart-sentiment-app/
 
 * **Preprocessing**:
 
-  * Lowercasing, removing HTML and special chars
+  * Lowercasing, removing HTML and special characters
   * Cleaned `Summary` field used for training
   * Balanced dataset across 3 sentiment classes
 
@@ -125,8 +131,8 @@ flipkart-sentiment-app/
 
 ## 📄 License
 
-This project is licensed under the MIT License - feel free to use, improve, and share!
-
-
+This project is licensed under the **MIT License** — feel free to use, improve, and share!
 
 ---
+
+
