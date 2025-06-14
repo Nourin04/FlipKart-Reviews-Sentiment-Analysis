@@ -47,7 +47,7 @@ def set_background_image(image_url):
     )
 
 # 👇 Replace this URL with your own background image link
-set_background_image("https://images.unsplash.com/photo-1542291026-7eec264c27ff")
+set_background_image("https://images.unsplash.com/photo-1654573817889-296cad084c97?q=80&w=1462&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")
 
 # Title
 st.markdown('<h1 class="main-title">🛍️ Flipkart Review Sentiment Analyzer</h1>', unsafe_allow_html=True)
