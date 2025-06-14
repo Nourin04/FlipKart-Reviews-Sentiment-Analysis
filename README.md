@@ -8,7 +8,7 @@ This project is a Machine Learning-powered web application that analyzes product
 ## 🚀 Demo
 
 👉 **[Live App on Streamlit Cloud](https://flipkart-reviews-sentiment-analysis2.streamlit.app/)**  
-*(Replace with your deployed URL)*
+
 
 ![image](https://github.com/user-attachments/assets/65271bee-d075-40c8-a976-fd69fabc1a1e)
 ![image](https://github.com/user-attachments/assets/38c6d78e-3d5a-44d9-8236-f712344da283)
