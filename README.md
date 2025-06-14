@@ -12,7 +12,6 @@ This project is a Machine Learning-powered web application that analyzes product
 
 ![image](https://github.com/user-attachments/assets/65271bee-d075-40c8-a976-fd69fabc1a1e)
 ![image](https://github.com/user-attachments/assets/38c6d78e-3d5a-44d9-8236-f712344da283)
-![image](https://github.com/user-attachments/assets/926a7a2f-356e-42a0-a86f-68e61df888a7)
 
 
 
