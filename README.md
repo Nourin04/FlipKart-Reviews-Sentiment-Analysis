@@ -65,9 +65,6 @@ flipkart-sentiment-app/
 
 ---
 
-Here is your updated content converted to **proper Markdown syntax**, ready to be used in a `README.md` file:
-
----
 
 ````markdown
 ## 📦 Installation & Run Locally
