@@ -121,6 +121,7 @@ streamlit run app.py
 ## 🙋‍♀️ About the Creator
 
 👩‍💻 Developed by **Noureen AC**
+
 🎓 B.Tech CSE | Passionate about AI, ML & Real-world Projects
 🌐 [LinkedIn](https://www.linkedin.com/in/noureen-ac) • [GitHub](https://github.com/Nourin04)
 
