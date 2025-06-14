@@ -66,7 +66,7 @@ flipkart-sentiment-app/
 ---
 
 
-````markdown
+
 ## 📦 Installation & Run Locally
 
 ### 1. Clone the repository:
@@ -74,7 +74,7 @@ flipkart-sentiment-app/
 ```bash
 git clone https://github.com/yourusername/flipkart-sentiment-app.git
 cd flipkart-sentiment-app
-````
+```
 
 ### 2. Install dependencies:
 
